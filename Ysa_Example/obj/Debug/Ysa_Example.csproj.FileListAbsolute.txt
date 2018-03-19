@@ -1,0 +1,6 @@
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\bin\Debug\Ysa_Example.exe.config
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\obj\Debug\Ysa_Example.csprojResolveAssemblyReference.cache
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\bin\Debug\Ysa_Example.exe
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\bin\Debug\Ysa_Example.pdb
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\obj\Debug\Ysa_Example.exe
+D:\Uygulamalar\C# uygulamalar\Ysa_Example\Ysa_Example\obj\Debug\Ysa_Example.pdb
