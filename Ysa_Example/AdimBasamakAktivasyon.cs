@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ysa_Example
 {
-    class SigmoidAktivasyon : IAktivasyon
+    class AdimBasamakAktivasyon : IAktivasyon
     {
         public double Aktivasyonhesapla(double sonuc)
         {
-            double hucrecikis = 0;
-            double e = Math.E;
-            double üs = Math.Pow(e, sonuc);
-            hucrecikis = 1 / (1 + üs);
-            return hucrecikis;
+            return sonuc;
         }
     }
 }
